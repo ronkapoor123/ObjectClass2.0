@@ -10,4 +10,5 @@ public class Main {
         // wait to get order restaurant1.foodpreparation = "";
         restaurant1.foodpreperation();
     }
+    //hii
 }
