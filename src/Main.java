@@ -9,6 +9,7 @@ public class Main {
         restaurant1.order();
         // wait to get order restaurant1.foodpreparation = "";
         restaurant1.foodpreperation();
+
     }
     //hii
 }
