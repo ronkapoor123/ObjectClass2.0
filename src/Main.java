@@ -10,6 +10,15 @@ public class Main {
         // wait to get order restaurant1.foodpreparation = "";
         restaurant1.foodpreperation();
 
+        Drink drink1 = new Drink();{
+            drink1.flavor = "Water.";
+            drink1.giveFlavor();
+
+            drink1.temperature = "Any Temperature.";
+            drink1.giveTemperature();
+
+            drink1.density = "1g.";
+            drink1.giveDensity();
+        }
     }
-    //hii
 }
